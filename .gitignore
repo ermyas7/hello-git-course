@@ -1,5 +1,4 @@
-
+ *.pyc
 *.in
 *.out 
  *ja 
- *.pyc
